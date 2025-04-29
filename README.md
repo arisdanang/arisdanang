@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jakarta, Indonesia.
-- :telescope: I’m working as a Front End Developer.
+- :telescope: Currently, i'm looking for full time / part time job .
 
 - :zap: In my free time, I read tech articles/books and sometime exloring Back End Stuff.
 
